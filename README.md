@@ -1,3 +1,3 @@
-#ZADANIE
+# ZADANIE
 
 Hello World! Pierwsze zadanie.
